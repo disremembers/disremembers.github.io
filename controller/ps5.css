@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(mainbase2.png);
+    background: url(https://i.imgur.com/X5lKMCT.png);
     height: 698px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .ds4.disconnected {
-    background: url(disconnected.png);
+    background: url(https://i.imgur.com/djilr9Y.png);
 }
 
 .ds4.disconnected div {
@@ -161,7 +161,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(facebuttons.png);
+    background: url(https://i.imgur.com/Vk6dCHz.png);
 }
 
 .ds4 .button.pressed {
@@ -234,7 +234,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(Dpad.png);
+    background: url(https://i.imgur.com/zXybIVy.png);
     position: absolute;
 }
 
