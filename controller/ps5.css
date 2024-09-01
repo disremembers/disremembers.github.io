@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://i.imgur.com/I0vqyQp.png);
     opacity: 0;
 }
 
@@ -42,7 +42,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url(https://i.imgur.com/6g65QX0.png) no-repeat;
     opacity: 0;
 }
 
@@ -202,7 +202,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url(https://i.imgur.com/ylRUVMS.png);
     height: 94px;
     width: 94px;
 }
